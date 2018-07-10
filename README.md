@@ -89,3 +89,8 @@ If you wish to serve the site from a different port:
 ## License
 
 This program is free software and is distributed under an [MIT License](LICENSE).
+
+
+## Video Tutorial
+
+https://www.youtube.com/watch?v=dv6_C4UqTfs&list=PLRtjMdoYXLf4inSULAHyCMqpIUj4cmBTr
